@@ -2,34 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8146a6bc-4dc9-4072-9ee7-fe8f1220c1d5" name="Default" comment="commit project">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/bg2.0_v2.2.6.apk" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/sample.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/static/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/static/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/static/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/static/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gernerator/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/crypto/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/createReadStream.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/fs_ext.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/read_image_file_async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/read_image_file_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/read_text_file_async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/read_text_file_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/sample.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/use_buffer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/use_stat.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/write_text_file_async.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/fs/write_text_file_sync.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/global/gl.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/global/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/file_server.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/file_server_.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/hello.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/static/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/static/js/jquery.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/http/urls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/stream/copy_file.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/stream/read_stream.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/node/samples/stream/write_stream.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../untitled/.tmp/" />
@@ -51,64 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="read_text_file_sync.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/samples/fs/read_text_file_sync.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="createReadStream.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/samples/fs/createReadStream.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-              <folding>
-                <element signature="e#0#41#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gl.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/samples/global/gl.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="353">
-              <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="hello.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/samples/global/hello.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="5" column="20" lean-forward="false" selection-start-line="5" selection-start-column="20" selection-end-line="5" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="jquery.min.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/node/samples/http/static/js/jquery.min.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="0" lean-forward="true" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node/samples/http/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -157,14 +74,70 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="file_server_.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="file_server_.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/node/samples/http/file_server_.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="353">
-              <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+              <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="copy_file.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node/samples/stream/copy_file.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="read_stream.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node/samples/stream/read_stream.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="write_stream.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/node/samples/stream/write_stream.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding>
+                <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output1.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node/samples/stream/output1.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="output2.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/node/samples/stream/output2.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -190,8 +163,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../untitled/koa2/k01.js" />
-        <option value="$PROJECT_DIR$/../untitled/koa2/k02.js" />
         <option value="$PROJECT_DIR$/../untitled/koa2/koa_url.js" />
         <option value="$PROJECT_DIR$/../untitled/koa2/package.json" />
         <option value="$PROJECT_DIR$/../untitled/koa2/koa_router.js" />
@@ -240,6 +211,9 @@
         <option value="$PROJECT_DIR$/node/samples/http/urls.js" />
         <option value="$PROJECT_DIR$/node/samples/http/file_server.js" />
         <option value="$PROJECT_DIR$/node/samples/http/file_server_.js" />
+        <option value="$PROJECT_DIR$/node/samples/stream/copy_file.js" />
+        <option value="$PROJECT_DIR$/node/samples/stream/read_stream.js" />
+        <option value="$PROJECT_DIR$/node/samples/stream/write_stream.js" />
       </list>
     </option>
   </component>
@@ -305,6 +279,94 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stream" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="http" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="static" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="node" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="gernerator" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -336,20 +398,20 @@
       <recent name="$PROJECT_DIR$/../untitled/view-koa" />
     </key>
   </component>
-  <component name="RunManager" selected="Node.js.file_server_.js">
-    <configuration default="false" name="hello.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="hello.js" working-dir="$PROJECT_DIR$/node/samples/global">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.write_stream.js">
     <configuration default="false" name="hello.js (1)" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="hello.js" working-dir="$PROJECT_DIR$/node/samples/http">
       <method />
     </configuration>
-    <configuration default="false" name="urls.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="urls.js" working-dir="$PROJECT_DIR$/node/samples/http">
-      <method />
-    </configuration>
-    <configuration default="false" name="file_server.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="file_server.js" working-dir="$PROJECT_DIR$/node/samples/http">
-      <method />
-    </configuration>
     <configuration default="false" name="file_server_.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="file_server_.js" working-dir="$PROJECT_DIR$/node/samples/http">
+      <method />
+    </configuration>
+    <configuration default="false" name="copy_file.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="copy_file.js" working-dir="$PROJECT_DIR$/node/samples/stream">
+      <method />
+    </configuration>
+    <configuration default="false" name="read_stream.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="read_stream.js" working-dir="$PROJECT_DIR$/node/samples/stream">
+      <method />
+    </configuration>
+    <configuration default="false" name="write_stream.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="write_stream.js" working-dir="$PROJECT_DIR$/node/samples/stream">
       <method />
     </configuration>
     <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
@@ -419,19 +481,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.hello.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.hello.js (1)" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.urls.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.file_server.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.file_server_.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.hello.js (1)" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.file_server_.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.copy_file.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.read_stream.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.write_stream.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.file_server_.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.hello.js (1)" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.file_server.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.urls.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.hello.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.write_stream.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.read_stream.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.copy_file.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.file_server_.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.hello.js (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +509,7 @@
       <updated>1492498782634</updated>
       <workItem from="1492498784407" duration="23771000" />
       <workItem from="1493726066039" duration="5735000" />
-      <workItem from="1494290814443" duration="17818000" />
+      <workItem from="1494290814443" duration="19341000" />
     </task>
     <task id="LOCAL-00001" summary="init my koa project">
       <created>1493726813006</created>
@@ -474,7 +536,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="47324000" />
+    <option name="totallyTimeSpent" value="48847000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,14 +549,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="866" y="80" width="1400" height="915" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15571429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15571429" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39007092" sideWeight="0.51785713" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.49714285" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39007092" sideWeight="0.5207143" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.4942857" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39007092" sideWeight="0.48214287" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39007092" sideWeight="0.47928572" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -533,49 +595,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Nunjucks/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nunjucks/views/hello.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="26" lean-forward="false" selection-start-line="0" selection-start-column="26" selection-end-line="0" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nunjucks/views/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="15" lean-forward="false" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Nunjucks/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="32" column="41" lean-forward="false" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view-koa/node_modules/co/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/view-koa/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/view-koa/static/css/bootstrap.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -979,7 +998,61 @@
     <entry file="file://$PROJECT_DIR$/node/samples/http/file_server_.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="353">
-          <caret line="50" column="6" lean-forward="false" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <caret line="50" column="6" lean-forward="true" selection-start-line="50" selection-start-column="6" selection-end-line="50" selection-end-column="6" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/samples/stream/copy_index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/samples/stream/copy_file.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="57" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/samples/stream/read_stream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="27" column="2" lean-forward="true" selection-start-line="27" selection-start-column="2" selection-end-line="27" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/samples/stream/output1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/samples/stream/output2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node/samples/stream/write_stream.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>

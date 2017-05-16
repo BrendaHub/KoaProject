@@ -30,8 +30,13 @@ setTimeout(function () {
     console.log('Run at ' + new Date().toTimeString());
 }, 1500);
 
-setInterval(function () {
+var interval = setInterval(function () {
     console.log('Schedule at ' + new Date().toTimeString());
 }, 3000);
 
 console.log('timer setted.');
+
+setTimeout(()=>{
+
+    console.log(clearInterval(interval)+'清除了相关的信息')
+}, 4000)

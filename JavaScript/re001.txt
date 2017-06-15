@@ -1,0 +1,3 @@
+在ES3中就引入了javascript的块级作用域， 如：
+
+with 和 catch

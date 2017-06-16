@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8146a6bc-4dc9-4072-9ee7-fe8f1220c1d5" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js001.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js002.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/re001.txt" />
+    <list default="true" id="8146a6bc-4dc9-4072-9ee7-fe8f1220c1d5" name="Default" comment="update 22:01">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js003.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../untitled/.tmp/" />
@@ -76,7 +74,7 @@
         <entry file="file://$PROJECT_DIR$/JavaScript/js001.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
-              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
               </folding>
@@ -84,13 +82,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js002.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="js002.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/JavaScript/js002.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="645">
               <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
               <folding>
                 <element signature="e#0#42#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="js003.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/JavaScript/js003.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc;n#a#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -123,7 +133,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/events/events.js" />
         <option value="$PROJECT_DIR$/gernerator/index.js" />
         <option value="$PROJECT_DIR$/gernerator/app.js" />
         <option value="$PROJECT_DIR$/node/samples/fs/read_image_file_async.js" />
@@ -174,6 +183,7 @@
         <option value="$PROJECT_DIR$/JavaScript/re001.txt" />
         <option value="$PROJECT_DIR$/JavaScript/js001.js" />
         <option value="$PROJECT_DIR$/JavaScript/js002.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js003.js" />
       </list>
     </option>
   </component>
@@ -198,7 +208,7 @@
     <handled-path value="$PROJECT_DIR$/view-koa/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="857" />
+    <option name="x" value="421" />
     <option name="y" value="38" />
     <option name="width" value="1499" />
     <option name="height" value="1111" />
@@ -219,7 +229,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -249,6 +258,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -284,10 +294,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.js002.js">
-    <configuration default="false" name="cg003.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="cg003.js" working-dir="$PROJECT_DIR$/closePackage">
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Node.js.js003.js">
     <configuration default="false" name="cg004.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="cg004.js" working-dir="$PROJECT_DIR$/closePackage">
       <method />
     </configuration>
@@ -298,6 +305,9 @@
       <method />
     </configuration>
     <configuration default="false" name="js002.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js002.js" working-dir="$PROJECT_DIR$/JavaScript">
+      <method />
+    </configuration>
+    <configuration default="false" name="js003.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js003.js" working-dir="$PROJECT_DIR$/JavaScript">
       <method />
     </configuration>
     <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
@@ -374,19 +384,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.cg003.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.cg004.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.cb005.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.js001.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.js002.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.cg004.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.cb005.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.js001.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.js002.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.js003.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.js002.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.js001.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.cb005.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.cg004.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.cg003.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.js003.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.js002.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.js001.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.cb005.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.cg004.js" />
       </list>
     </recent_temporary>
   </component>
@@ -419,7 +429,8 @@
       <workItem from="1497457086173" duration="2347000" />
       <workItem from="1497514245719" duration="1870000" />
       <workItem from="1497528776298" duration="223000" />
-      <workItem from="1497529009592" duration="1771000" />
+      <workItem from="1497529009592" duration="2192000" />
+      <workItem from="1497593148178" duration="103000" />
     </task>
     <task id="LOCAL-00001" summary="init my koa project">
       <created>1493726813006</created>
@@ -449,11 +460,18 @@
       <option name="project" value="LOCAL" />
       <updated>1497528875252</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update 21:00">
+      <created>1497531274638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1497531274639</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81242000" />
+    <option name="totallyTimeSpent" value="81766000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -465,19 +483,20 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="857" y="38" width="1499" height="1111" extended-state="0" />
+    <frame x="421" y="38" width="1499" height="1111" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18545698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18545698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28694817" sideWeight="0.4156104" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44049904" sideWeight="0.49232823" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44049904" sideWeight="0.5076718" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28694817" sideWeight="0.58438957" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28694817" sideWeight="0.58438957" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995272" sideWeight="0.49714285" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44089836" sideWeight="0.495" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -500,7 +519,10 @@
     <MESSAGE value="git push buf.js" />
     <MESSAGE value="update&#10;" />
     <MESSAGE value="update" />
-    <option name="LAST_COMMIT_MESSAGE" value="update" />
+    <MESSAGE value="update 21:00" />
+    <MESSAGE value="update 21:05" />
+    <MESSAGE value="update 22:01" />
+    <option name="LAST_COMMIT_MESSAGE" value="update 22:01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -515,13 +537,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/read_text_file_async.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node/samples/fs/ext_file.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -808,7 +823,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -860,7 +874,7 @@
     <entry file="file://$PROJECT_DIR$/JavaScript/js001.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
           </folding>
@@ -873,6 +887,16 @@
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
           <folding>
             <element signature="e#0#42#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js003.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#a#0" expanded="false" />
           </folding>
         </state>
       </provider>

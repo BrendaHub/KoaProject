@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8146a6bc-4dc9-4072-9ee7-fe8f1220c1d5" name="Default" comment="update 22:01">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js003.js" />
+    <list default="true" id="8146a6bc-4dc9-4072-9ee7-fe8f1220c1d5" name="Default" comment="add new files">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js006.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js007.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js008.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/JavaScript/js009.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/url-koa/app.js" afterPath="$PROJECT_DIR$/url-koa/app.js" />
     </list>
     <ignored path="$PROJECT_DIR$/../untitled/.tmp/" />
     <ignored path="$PROJECT_DIR$/../untitled/temp/" />
@@ -24,23 +28,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="cg004.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/closePackage/cg004.js">
+      <file leaf-file-name="js006.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/js006.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="cb005.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/closePackage/cb005.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="360">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc;n#foo#0" expanded="false" />
               </folding>
@@ -48,60 +40,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="cg001.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/closePackage/cg001.js">
+      <file leaf-file-name="js007.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/js007.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="435">
+              <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
-                <element signature="n#!!doc;n#wait#0" expanded="false" />
+                <element signature="n#!!doc;n#foo#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="re001.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript/re001.txt">
+      <file leaf-file-name="js008.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/js008.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state relative-caret-position="405">
+              <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js001.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript/js001.js">
+      <file leaf-file-name="js009.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/JavaScript/js009.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+            <state relative-caret-position="471">
+              <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
               <folding>
-                <element signature="e#0#42#0" expanded="false" />
+                <element signature="n#!!doc;n#foo#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="js002.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/JavaScript/js002.js">
+      <file leaf-file-name="app.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/url-koa/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-              <folding>
-                <element signature="e#0#42#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="js003.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/JavaScript/js003.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding>
-                <element signature="n#!!doc;n#a#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="345">
+              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -133,14 +111,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/gernerator/index.js" />
-        <option value="$PROJECT_DIR$/gernerator/app.js" />
-        <option value="$PROJECT_DIR$/node/samples/fs/read_image_file_async.js" />
-        <option value="$PROJECT_DIR$/node/samples/fs/read_image_file_sync.js" />
-        <option value="$PROJECT_DIR$/node/samples/fs/read_text_file_async.js" />
-        <option value="$PROJECT_DIR$/node/samples/fs/sample.txt" />
-        <option value="$PROJECT_DIR$/node/samples/fs/read_text_file_sync.js" />
-        <option value="$PROJECT_DIR$/node/samples/fs/use_buffer.js" />
         <option value="$PROJECT_DIR$/node/samples/fs/use_stat.js" />
         <option value="$PROJECT_DIR$/node/samples/fs/write_text_file_async.js" />
         <option value="$PROJECT_DIR$/node/samples/fs/write_text_file_sync.js" />
@@ -184,16 +154,24 @@
         <option value="$PROJECT_DIR$/JavaScript/js001.js" />
         <option value="$PROJECT_DIR$/JavaScript/js002.js" />
         <option value="$PROJECT_DIR$/JavaScript/js003.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js004.js" />
+        <option value="$PROJECT_DIR$/JavaScript/bind.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js005.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js006.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js007.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js008.js" />
+        <option value="$PROJECT_DIR$/JavaScript/js009.js" />
+        <option value="$PROJECT_DIR$/url-koa/app.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
-    <service-enabled>false</service-enabled>
+    <service-enabled>true</service-enabled>
     <exe-path />
     <annotation-enable>false</annotation-enable>
-    <other-services-enabled>false</other-services-enabled>
+    <other-services-enabled>true</other-services-enabled>
   </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -208,8 +186,8 @@
     <handled-path value="$PROJECT_DIR$/view-koa/node_modules" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="421" />
-    <option name="y" value="38" />
+    <option name="x" value="381" />
+    <option name="y" value="23" />
     <option name="width" value="1499" />
     <option name="height" value="1111" />
   </component>
@@ -229,6 +207,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -255,10 +234,23 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="KoaProject" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Buffer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,7 +259,7 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="JavaScriptPreferStrict" value="false" />
     <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
@@ -294,20 +286,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.js003.js">
-    <configuration default="false" name="cg004.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="cg004.js" working-dir="$PROJECT_DIR$/closePackage">
+  <component name="RunManager" selected="Node.js.app.js">
+    <configuration default="false" name="js006.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js006.js" working-dir="$PROJECT_DIR$/JavaScript">
       <method />
     </configuration>
-    <configuration default="false" name="cb005.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="cb005.js" working-dir="$PROJECT_DIR$/closePackage">
+    <configuration default="false" name="js007.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js007.js" working-dir="$PROJECT_DIR$/JavaScript">
       <method />
     </configuration>
-    <configuration default="false" name="js001.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js001.js" working-dir="$PROJECT_DIR$/JavaScript">
+    <configuration default="false" name="js008.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js008.js" working-dir="$PROJECT_DIR$/JavaScript">
       <method />
     </configuration>
-    <configuration default="false" name="js002.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js002.js" working-dir="$PROJECT_DIR$/JavaScript">
+    <configuration default="false" name="js009.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js009.js" working-dir="$PROJECT_DIR$/JavaScript">
       <method />
     </configuration>
-    <configuration default="false" name="js003.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="js003.js" working-dir="$PROJECT_DIR$/JavaScript">
+    <configuration default="false" name="app.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="app.js" working-dir="$PROJECT_DIR$/url-koa">
       <method />
     </configuration>
     <configuration default="true" type="CompoundRunConfigurationType" factoryName="Compound Run Configuration">
@@ -384,19 +376,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Node.js.cg004.js" />
-      <item index="1" class="java.lang.String" itemvalue="Node.js.cb005.js" />
-      <item index="2" class="java.lang.String" itemvalue="Node.js.js001.js" />
-      <item index="3" class="java.lang.String" itemvalue="Node.js.js002.js" />
-      <item index="4" class="java.lang.String" itemvalue="Node.js.js003.js" />
+      <item index="0" class="java.lang.String" itemvalue="Node.js.js006.js" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.js007.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.js008.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.js009.js" />
+      <item index="4" class="java.lang.String" itemvalue="Node.js.app.js" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.js003.js" />
-        <item index="1" class="java.lang.String" itemvalue="Node.js.js002.js" />
-        <item index="2" class="java.lang.String" itemvalue="Node.js.js001.js" />
-        <item index="3" class="java.lang.String" itemvalue="Node.js.cb005.js" />
-        <item index="4" class="java.lang.String" itemvalue="Node.js.cg004.js" />
+        <item index="0" class="java.lang.String" itemvalue="Node.js.app.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.js009.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.js008.js" />
+        <item index="3" class="java.lang.String" itemvalue="Node.js.js007.js" />
+        <item index="4" class="java.lang.String" itemvalue="Node.js.js006.js" />
       </list>
     </recent_temporary>
   </component>
@@ -430,7 +422,11 @@
       <workItem from="1497514245719" duration="1870000" />
       <workItem from="1497528776298" duration="223000" />
       <workItem from="1497529009592" duration="2192000" />
-      <workItem from="1497593148178" duration="103000" />
+      <workItem from="1497593148178" duration="7954000" />
+      <workItem from="1497929156363" duration="865000" />
+      <workItem from="1498007600832" duration="782000" />
+      <workItem from="1498181664797" duration="7716000" />
+      <workItem from="1498547955508" duration="864000" />
     </task>
     <task id="LOCAL-00001" summary="init my koa project">
       <created>1493726813006</created>
@@ -467,11 +463,39 @@
       <option name="project" value="LOCAL" />
       <updated>1497531274639</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="add by file js003.js">
+      <created>1497593281022</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1497593281022</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add new files">
+      <created>1497615840933</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1497615840933</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add by 21:12">
+      <created>1497615877655</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1497615877655</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add new file by 20170627">
+      <created>1498549180954</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1498549180954</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="81766000" />
+    <option name="totallyTimeSpent" value="99844000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -483,20 +507,19 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="421" y="38" width="1499" height="1111" extended-state="0" />
-    <editor active="true" />
+    <frame x="381" y="23" width="1499" height="1111" extended-state="0" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18545698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18545698" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44049904" sideWeight="0.49232823" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44049904" sideWeight="0.5076718" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43857965" sideWeight="0.43162107" order="10" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28694817" sideWeight="0.58438957" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.43857965" sideWeight="0.5683789" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3995272" sideWeight="0.49714285" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44049904" sideWeight="0.49232823" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -522,7 +545,11 @@
     <MESSAGE value="update 21:00" />
     <MESSAGE value="update 21:05" />
     <MESSAGE value="update 22:01" />
-    <option name="LAST_COMMIT_MESSAGE" value="update 22:01" />
+    <MESSAGE value="add by file js003.js" />
+    <MESSAGE value="add new files" />
+    <MESSAGE value="add by 21:12" />
+    <MESSAGE value="add new file by 20170627" />
+    <option name="LAST_COMMIT_MESSAGE" value="add new file by 20170627" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -537,55 +564,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/ext_file.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/fs_ext.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="19" column="2" lean-forward="false" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/use_stat.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="24" column="2" lean-forward="true" selection-start-line="24" selection-start-column="2" selection-end-line="24" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/read_text_file_sync.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="31" lean-forward="true" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/writeStream.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="50" column="15" lean-forward="false" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/samples/fs/createReadStream.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="47" column="29" lean-forward="false" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node/samples/global/gl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="30" column="14" lean-forward="true" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/node/samples/global/hello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
@@ -791,13 +769,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/url-koa/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="29" lean-forward="false" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/function/fun01.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
@@ -819,13 +790,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/closePackage/cg003.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/koa2/k02.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -837,29 +801,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/closePackage/cb005.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
-          <folding>
-            <element signature="n#!!doc;n#foo#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/closePackage/cg001.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc;n#wait#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -867,7 +808,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -875,9 +815,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="23" column="6" lean-forward="false" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -885,19 +822,103 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="645">
           <caret line="45" column="0" lean-forward="false" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#42#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/JavaScript/js003.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        <state relative-caret-position="285">
+          <caret line="21" column="15" lean-forward="false" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closePackage/cg001.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closePackage/cg003.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js004.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/bind.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js005.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="369">
+          <caret line="68" column="15" lean-forward="true" selection-start-line="68" selection-start-column="15" selection-end-line="68" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/closePackage/cb005.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js006.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding>
-            <element signature="n#!!doc;n#a#0" expanded="false" />
+            <element signature="n#!!doc;n#foo#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js007.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#foo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js008.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/JavaScript/js009.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="54" column="1" lean-forward="false" selection-start-line="54" selection-start-column="1" selection-end-line="54" selection-end-column="1" />
+          <folding>
+            <element signature="n#!!doc;n#foo#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/url-koa/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding />
         </state>
       </provider>
     </entry>
